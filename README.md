@@ -29,5 +29,8 @@ Welcome to the IPL Trivia Quiz website project! This repository contains the cod
 - Incorporate feedback mechanisms for users to suggest improvements.
 
 
-https://github.com/Vanshaj5101/IPL_Quiz_LLM/assets/68272691/e30c6813-ea90-46e3-9753-884bcade16af
+
+
+
+https://github.com/Vanshaj5101/IPL_Quiz_LLM/assets/68272691/2a721388-6a81-4927-bd50-33e92bac0936
 
